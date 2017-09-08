@@ -54,20 +54,20 @@ public class Consts {
     public static final int GOLDEN_FRAME = 2;
     public static final int INTRA_FRAME = 3;
 
-    public static final int DC_PRED = 0;
-    public static final int TM_PRED = 1;
-    public static final int V_PRED = 2;
-    public static final int H_PRED = 3;
-    public static final int D135_PRED = 4;
-    public static final int D117_PRED = 5;
-    public static final int D45_PRED = 6;
-    public static final int D63_PRED = 7;
-    public static final int D153_PRED = 8;
-    public static final int D207_PRED = 9;
-    public static final int NEARESTMV = 10;
-    public static final int NEARMV = 11;
-    public static final int ZEROMV = 12;
-    public static final int NEWMV = 13;
+    public static final int DC_PRED    = 0;
+    public static final int V_PRED     = 1;
+    public static final int H_PRED     = 2;
+    public static final int D45_PRED   = 3;
+    public static final int D135_PRED  = 4;
+    public static final int D117_PRED  = 5;
+    public static final int D153_PRED  = 6;
+    public static final int D207_PRED  = 7;
+    public static final int D63_PRED   = 8;
+    public static final int TM_PRED    = 9;
+    public static final int NEARESTMV  = 10;
+    public static final int NEARMV     = 11;
+    public static final int ZEROMV     = 12;
+    public static final int NEWMV      = 13;
 
     public static final int SINGLE_REF = 0;
     public static final int COMPOUND_REF = 1;
